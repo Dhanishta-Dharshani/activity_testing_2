@@ -21,4 +21,4 @@ st.write("You have selected", len(relax), 'activities')
 name3 = st.text_input("Enter the number of hours you would like to do the productive activity for: ", "")
 
 if(st.button("Submit")):
-    st.text("Thank you!")
+    st.text("Thanks!")
