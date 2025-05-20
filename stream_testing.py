@@ -22,7 +22,7 @@ st.write("You selected", len(hobbies), 'hobbies')
 st.button("Click me for no reason")
 
 # Create a button, that when clicked, shows a text
-if(st.button("Submit")):
+if(st.button("Finish")):
     st.text("Thank you!")
 
 
